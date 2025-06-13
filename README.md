@@ -13,9 +13,6 @@
 | [@chaeyn](https://github.com/chaeyn) | [@JoSangcheol](https://github.com/JoSangcheol) | [@uhihi09](https://github.com/uhihi09) |  
 | 풀스택 | 디자인 | 디자인 |
 
-**풀스택: [@chaeyn](https://github.com/chaeyn)**  
-**디자인: [@JoSangcheol](https://github.com/JoSangcheol), [@uhihi09](https://github.com/uhihi09)**
-
 ## 사이트 소개
 
 오스틸(OH-STEAL) 점심방송 사이트는  
