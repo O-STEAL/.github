@@ -3,6 +3,8 @@
 > 점심시간, 내 신청곡과 사연을 들을수 있는 기회!  
 > **"지금 당장 신청하세요!"**
 
+![Image](https://github.com/user-attachments/assets/1016358b-c06b-445e-8d82-1692cec4336b)
+
 ---
 ## 팀원 소개
 
