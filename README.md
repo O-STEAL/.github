@@ -8,8 +8,8 @@
 
 
 | 채근영 | 조상철 | 배준하 |
-| --- | --- | --- |
-| <img src="https://github.com/user-attachments/assets/01266d43-1b01-4449-a6fc-5eb2aee7a298" width="200"/> | <img src="https://github.com/user-attachments/assets/63d37ee0-fbe2-4648-a042-f79e94acbe52" width="200" height="100"/> | <img src="https://github.com/user-attachments/assets/47977320-58f1-4411-abe2-a0f2177adcc2" width="200"/> |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/01266d43-1b01-4449-a6fc-5eb2aee7a298" width="180"/> | <img src="https://github.com/user-attachments/assets/63d37ee0-fbe2-4648-a042-f79e94acbe52" width="180"/> | <img src="https://github.com/user-attachments/assets/47977320-58f1-4411-abe2-a0f2177adcc2" width="180"/> |
 | [@chaeyn](https://github.com/chaeyn) | [@JoSangcheol](https://github.com/JoSangcheol) | [@uhihi09](https://github.com/uhihi09) |
 
 **풀스택: [@chaeyn](https://github.com/chaeyn)**  
