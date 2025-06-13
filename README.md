@@ -1,9 +1,9 @@
 # <img src="https://github.com/user-attachments/assets/6fee3dcc-695c-47a4-8fec-46ab0d3adce3" width="50"/>  ****오스틸**** 점심방송 신청 웹사이트
 
+<p align="center"><a href="https://github.com/Kanaries/pygwalker"><img width=100% alt="" src="https://github.com/user-attachments/assets/1016358b-c06b-445e-8d82-1692cec4336b" /></a></p>
+
 > 점심시간, 내 신청곡과 사연을 들을수 있는 기회!  
 > **"지금 당장 신청하세요!"**
-
-<p align="center"><a href="https://github.com/Kanaries/pygwalker"><img width=100% alt="" src="https://github.com/user-attachments/assets/1016358b-c06b-445e-8d82-1692cec4336b" /></a></p>
 
 ---
 ## 팀원 소개
