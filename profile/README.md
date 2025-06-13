@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/6fee3dcc-695c-47a4-8fec-46ab0d3adce3" width="50"/>  ****O-STEAL****: 점심방송 신청 웹사이트
+# <img src="https://github.com/user-attachments/assets/0e4fdc39-0d92-4f48-99ea-9f336d847205" width="50"/>  ****O-STEAL****: 점심방송 신청 웹사이트
 
 <p align="center"><a href="https://github.com/Kanaries/pygwalker"><img width=100% alt="배너 이미지" src="https://github.com/user-attachments/assets/e985afc9-d2a5-4d23-b2ae-f5ce9c0f4adb" /></a></p>
 
@@ -19,7 +19,7 @@
 
 ## 사이트 소개
 
-오스틸(OH-STEAL) 점심방송 사이트는  
+오스틸(O-STEAL) 점심방송 사이트는  
 학생들이 직접 **신청곡과 사연을 등록**할 수 있는 사이트입니다.
 
 **주요 기능:**
