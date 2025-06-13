@@ -9,7 +9,7 @@
 
 | 채근영 | 조상철 | 배준하 |
 | --- | --- | --- |
-|  | | | | |
+| https://avatars.githubusercontent.com/u/186152309?s=130&v=4 | | | | |
 | [@chaeyn](https://github.com/chaeyn) | [@JoSangcheol](https://github.com/JoSangcheol) | [@uhihi09](https://github.com/uhihi09) |
 
 **풀스택: [@chaeyn](https://github.com/chaeyn)**  
