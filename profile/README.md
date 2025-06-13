@@ -29,7 +29,7 @@
 ---
 
 ## 사이트 주요 화면
-| 로그인 페이지 | 메인 페이지 |. 
+| 로그인 페이지 | 메인 페이지 |
 |:---:|:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/e162f7e8-60d6-4b54-9cf5-4678e71e7bb1" width="100%"> | <img src="https://github.com/user-attachments/assets/efa4b359-83a9-4152-a8ae-7444f6aedc83" width="100%"> |
 
