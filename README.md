@@ -5,8 +5,15 @@
 
 ---
 ## 팀원 소개
-**풀스택: [채근영](https://github.com/chaeyn)**  
-**디자인: [조상철](https://github.com/JoSangcheol), [배준하](https://github.com/uhihi09)**
+
+
+| 채근영 | 조상철 | 배준하 |
+| --- | --- | --- |
+|  | | | | |
+| [@chaeyn](https://github.com/chaeyn) | [@JoSangcheol](https://github.com/JoSangcheol) | [@uhihi09](https://github.com/uhihi09) |
+
+**풀스택: [@chaeyn](https://github.com/chaeyn)**  
+**디자인: [@JoSangcheol](https://github.com/JoSangcheol), [@uhihi09](https://github.com/uhihi09)**
 
 ## 사이트 소개
 
