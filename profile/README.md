@@ -28,7 +28,9 @@
 - 사연 접수
 ---
 
-## 
+## 사이트 주요 화면
+| 로그인 페이지 | 메인 페이지 |
+| <img src="https://github.com/user-attachments/assets/e162f7e8-60d6-4b54-9cf5-4678e71e7bb1" width="50%"> | <img src="https://github.com/user-attachments/assets/5f20fb4d-fac3-41e1-82bc-dcc8b4c340ac" width="50%"> |
 
 ---
 
