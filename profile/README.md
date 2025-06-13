@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/6fee3dcc-695c-47a4-8fec-46ab0d3adce3" width="50"/>  ****OH-STEAL****: 점심방송 신청 웹사이트
+# <img src="https://github.com/user-attachments/assets/6fee3dcc-695c-47a4-8fec-46ab0d3adce3" width="50"/>  ****O-STEAL****: 점심방송 신청 웹사이트
 
 <p align="center"><a href="https://github.com/Kanaries/pygwalker"><img width=100% alt="배너 이미지" src="https://github.com/user-attachments/assets/e985afc9-d2a5-4d23-b2ae-f5ce9c0f4adb" /></a></p>
 
