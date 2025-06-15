@@ -1,6 +1,6 @@
 # <img src="https://github.com/user-attachments/assets/0e4fdc39-0d92-4f48-99ea-9f336d847205" width="50"/>  ****O-STEAL****: 점심방송 신청 웹사이트
 
-<p align="center"><a href="https://github.com/Kanaries/pygwalker"><img width=100% alt="배너 이미지" src="https://github.com/user-attachments/assets/e985afc9-d2a5-4d23-b2ae-f5ce9c0f4adb" /></a></p>
+<p align="center"><img width=100% alt="배너 이미지" src="https://github.com/user-attachments/assets/e985afc9-d2a5-4d23-b2ae-f5ce9c0f4adb" /></p>
 
 > 점심시간, 내 신청곡과 사연을 들을수 있는 기회!  
 > **"지금 당장 신청하세요!"**
