@@ -42,7 +42,6 @@
 |------|-----------|
 | Frontend | HTML, SASS(SCSS), JavaScript |
 | Backend | Express, JWT, SQLite |
-| 배포 | 근영아 해줘 |
 | 디자인 | Figma |
 
 ---
